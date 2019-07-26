@@ -29,7 +29,7 @@ facebook: ZachHoskins27 # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: #jekyller # replace with your disqus username
 
 # Google Analytics
 google_analytics: #UA-69281367-1 # replace with your GA tracking identifier
@@ -69,7 +69,7 @@ plugins: [jekyll-paginate, jekyll-feed]
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: ZachHoskins
 repo: oil-blog
 branch: master
 relative_source: ../oil-blog/
