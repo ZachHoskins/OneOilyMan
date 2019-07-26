@@ -6,7 +6,7 @@ language: 'en-us'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /oil-blog/
+baseurl: /
 
 # Website info
 title: OneOilyMan
@@ -15,9 +15,9 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://ZachHoskins.github.io/oil-blog/
+production_url: https://oneoilyman.com
 source_url: https://github.com/ZachHoskins/oil-blog/
-CNAME: #add cname for website to be created
+CNAME: oneoilyman.com #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
@@ -74,7 +74,7 @@ repo: oil-blog
 branch: master
 relative_source: ../oil-blog/
 destination: ../gh-pages/
-production_url:  https://ZachHoskins.github.io/oil-blog/
+production_url:  https://oneoilyman.com
 source_url:  https://github.com/ZachHoskins/oil-blog/
 
 exclude:
