@@ -1,6 +1,6 @@
 ## Interested in Joining the Young Living Family?
 
-
+To enroll, [Click Here](https://www.bit.ly/zhoskinsyl) and make sure the number **123** appears in both the "Enroller" and "Sponsor ID" fields.
 
 # Welcome to StackEdit!
 
@@ -146,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE3MDQwNDhdfQ==
+eyJoaXN0b3J5IjpbMTI4MTkyODI2MF19
 -->
