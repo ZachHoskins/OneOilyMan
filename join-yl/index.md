@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: About
+title: Join Young Living
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
@@ -25,5 +25,5 @@ subclass: 'post page'
  - Fill out the form, and double check that the numbers in **Sponsor ID & Enroller ID are: _16298497_**
  - Finish the checkout process, and wait for your new favorite box to arrive on your doorstep!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc2OTgzMDNdfQ==
+eyJoaXN0b3J5IjpbODY3MDE4Nzc5LC0xODE3Njk4MzAzXX0=
 -->
