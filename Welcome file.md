@@ -2,7 +2,7 @@
 
  - Check out [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
  - Select the diffuser you would like to be included with your kit
-	 - **Note:** you can select any listed on the
+	 - **Note:** the price of the kit varies based on the diffuser you choose (the Desert Mist is the most popular)
  - the number **16298497** appears in both the "My Sponsor ID" and
    "Enroller ID" fields.
 
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzUxNDg5NywtOTE5NjUxMTQzLDEyOD
-E5MjgyNjBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDE2NDIwMjcsLTkxOTY1MTE0MywxMj
+gxOTI4MjYwXX0=
 -->
