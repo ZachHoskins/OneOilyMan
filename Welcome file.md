@@ -1,6 +1,7 @@
 ## Interested in Joining the Young Living Family?
 
- - Check out [Young Living signup page](https://www.bit.ly/zhoskinsyl) and fill out the forms.
+ - Check out [Young Living signup page](https://www.bit.ly/zhoskinsyl) 
+ - 
  - the number **16298497** appears in both the "My Sponsor ID" and
    "Enroller ID" fields.
 
@@ -148,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMTg0NzgyLC05MTk2NTExNDMsMTI4MT
+eyJoaXN0b3J5IjpbNjIwNjc5ODY3LC05MTk2NTExNDMsMTI4MT
 kyODI2MF19
 -->
