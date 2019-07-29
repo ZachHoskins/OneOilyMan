@@ -1,7 +1,8 @@
 ## Interested in Joining the Young Living Family?
 
- - Check out [Young Living signup page](https://www.bit.ly/zhoskinsyl) 
- - 
+ - Check out [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
+ - Select the diffuser you would like to be included with your kit
+	 - **Note:** you can select any listed on the
  - the number **16298497** appears in both the "My Sponsor ID" and
    "Enroller ID" fields.
 
@@ -149,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNjc5ODY3LC05MTk2NTExNDMsMTI4MT
-kyODI2MF19
+eyJoaXN0b3J5IjpbMjA1MzUxNDg5NywtOTE5NjUxMTQzLDEyOD
+E5MjgyNjBdfQ==
 -->
