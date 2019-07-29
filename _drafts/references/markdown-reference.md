@@ -1,12 +1,4 @@
 ---
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
 
 ---
 
@@ -70,7 +62,7 @@ Unordered
   - Marker character change forces new list start:
     * Ac tristique libero volutpat at
     + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
+    - Nulla volutpat aliquam velit 
 + Very easy!
 
 Ordered
