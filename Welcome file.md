@@ -1,11 +1,3 @@
-## Interested in Joining the Young Living Family?
-
- - Check out [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
- - Select the diffuser you would like to be included with your kit
-	 - **Note:** the price of the kit varies based on the diffuser you choose (the Desert Mist is the most popular)
- - the number **16298497** appears in both the "My Sponsor ID" and
-   "Enroller ID" fields.
-
 # Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
@@ -150,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE2NDIwMjcsLTkxOTY1MTE0MywxMj
-gxOTI4MjYwXX0=
+eyJoaXN0b3J5IjpbLTMzMjQ1NTM2MywtMTMwMTY0MjAyNywtOT
+E5NjUxMTQzLDEyODE5MjgyNjBdfQ==
 -->
