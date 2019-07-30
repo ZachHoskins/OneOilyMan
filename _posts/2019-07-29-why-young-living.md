@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: ../assets/images/why-young-living/why-yl-cover.jpg
+cover: ../assets/images/why-young-living/why-yl-cover.jpeg
 navigation: True
 title: Why Young Living?
 date: 2019-07-29 21:00:00
@@ -205,6 +205,6 @@ If you aren’t already part of this amazing family, I would love to help you ge
 
 ![enter image description here](https://eus-www.sway-cdn.com/s/NwoCINSIC054UHh5/images/0V8mPbJPikQPEp?quality=1800&allowAnimation=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM1ODIzNTgsLTE4MTU1NDYwOSwtNT
-cwMzQ1MjQ4XX0=
+eyJoaXN0b3J5IjpbLTg3NTQ0MjA3MywtMTgxNTU0NjA5LC01Nz
+AzNDUyNDhdfQ==
 -->
