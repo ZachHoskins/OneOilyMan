@@ -158,7 +158,7 @@ This particular line of Young Living products is infused with the Thieves essent
 
 ## Nutrition & Wellness Products
 
-![Nutrition & Wellness Products](../assets/images/why-young-living/products-for-nutrution-and-wellness.jpeg)
+![Nutrition & Wellness Products](../assets/images/why-young-living/products-for-nutrition-and-wellness.jpeg)
 
 True wellness starts from the inside out and Young Living has a full line of products and supplements that provide optimal nutrition to work with your body to keep it above the wellness line.
 
@@ -182,7 +182,7 @@ Testing the absorption of Multigreens showed that 42% was absorbed in 24 hours. 
 
 ## Embrace the Lifestyle
 
-![Embrace the Lifestyle](../assets/images/why-young-living/embrace-the-yl-lifestyle.jpepg)
+![Embrace the Lifestyle](../assets/images/why-young-living/embrace-the-yl-lifestyle.jpeg)
 
 When you embark on a journey to live a life filled with wellness, purpose, and abundance, it takes more than just one drop of oil to get you there. Embracing Young Living is *embracing a lifestyle* - making a commitment to better choices for you and your family and helping others do the same thing. When you do this, you will reap the rewards.
 
