@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-cover: ../assets/images/why-young-living/why-yl-cover.jpeg
+cover: ../assets/images/YoungLiving.jpg
 title: Interested in Joining the Young Living Family?
 navigation: true
 logo: 'assets/images/logo.png'
