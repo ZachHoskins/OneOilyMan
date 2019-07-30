@@ -1,14 +1,15 @@
 ---
 layout: page
 current: about
-title: Join Young Living
+cover: ../assets/images/why-young-living/why-yl-cover.jpeg
+title: Interested in Joining the Young Living Family?
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 class: page-template
 subclass: 'post page'
 ---
 
-## Interested in Joining the Young Living Family?
+Who wouldn't want to become part of a company that supports whole body **wellness**, has a fantastic **community**, and may even provide **financial freedom** for families?
 
  - Check out the [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
 	 - Becoming a member does NOT require you to sell anything, you just get 24% off prices!
