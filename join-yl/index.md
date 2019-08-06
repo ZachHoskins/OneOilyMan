@@ -9,7 +9,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Who wouldn't want to become part of a company that supports whole body **wellness**, has a fantastic **community**, and may even provide **financial freedom** for families?
+Who wouldn't want to become part of a company that supports whole body **wellness**, has a fantastic **community**, and may even provide **financial freedom** for your family?
 
  - Check out the [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
 	 - Becoming a member does NOT require you to sell anything, you just get 24% off prices!
@@ -25,6 +25,6 @@ Who wouldn't want to become part of a company that supports whole body **wellnes
  - Fill out the form, and double check that the numbers in **Sponsor ID & Enroller ID are: _16298497_**
  - Finish the checkout process, and wait for your new favorite box to arrive on your doorstep!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkxMTYyNiw4NjcwMTg3NzksLTE4MT
-c2OTgzMDNdfQ==
+eyJoaXN0b3J5IjpbNzIwMTI0NzEzLC0xMzE5MTE2MjYsODY3MD
+E4Nzc5LC0xODE3Njk4MzAzXX0=
 -->
