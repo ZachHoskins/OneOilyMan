@@ -18,13 +18,13 @@ Who wouldn't want to become part of a company that supports whole body **wellnes
  - Select if you would like to enroll in Essential Rewards. 
 	 - **Note:** This is highly recommended for the following reasons:
 		 - No enrollment fee and cancel at any time
-		 - If you sign up when ordering your Starter Kit, you qualify for the first tier promoti, and get a free oil on top of the 12 oils you receive in the Starter Kit
+		 - If you sign up when ordering your Starter Kit, you qualify for the first tier promo oil on top of the 12 oils you receive in the Starter Kit
 		 - Discounted Shipping
 		 - Get up to 25% back in product credit
 		 - Loyalty Gifts at 3, 6, and 9 months—and beyond
  - Fill out the form, and double check that the numbers in **Sponsor ID & Enroller ID are: _16298497_**
  - Finish the checkout process, and wait for your new favorite box to arrive on your doorstep!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MzI1MjY0LDcyMDEyNDcxMywtMTMxOT
-ExNjI2LDg2NzAxODc3OSwtMTgxNzY5ODMwM119
+eyJoaXN0b3J5IjpbMTM4NTY2NTk0Myw3MjAxMjQ3MTMsLTEzMT
+kxMTYyNiw4NjcwMTg3NzksLTE4MTc2OTgzMDNdfQ==
 -->
