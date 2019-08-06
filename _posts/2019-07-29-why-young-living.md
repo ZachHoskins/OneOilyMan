@@ -70,7 +70,7 @@ Quality and purity are important because that is what ensures these products WOR
 
 Because Young Living takes such great care in bringing you the highest quality products straight from nature, it has established farms around the globe for cultivating and distilling essential oils.
 
-#### Young Living Lavender Farm and Distillery: Mona, Utah, USA
+#### Young Living Lavender Farm and Distillery: *Mona, Utah, USA*
 - Lavender
 - Clary Sage
 - Goldenrod
@@ -79,25 +79,25 @@ Because Young Living takes such great care in bringing you the highest quality p
 - Blue Yarrow
 - White Fir
 
-#### Skyrider Wilderness Ranch: Tabiona, Utah, USA
+#### Skyrider Wilderness Ranch: *Tabiona, Utah, USA*
 - Einkorn
 
-#### Highland Flats Tree Farm and Distillery: Naples, Idaho, USA
+#### Highland Flats Tree Farm and Distillery: *Naples, Idaho, USA*
 - Idaho Blue Spruce
 - White Fir
 
-#### Northern Lights Farm and Distillery: Fort Nelson, British Columbia, Canada
+#### Northern Lights Farm and Distillery: *Fort Nelson, British Columbia, Canada*
 - Northern Lights Black Spruce
 
-#### Vida De Seville Distillery: Almaden De La Plata, Seville, Spain
+#### Vida De Seville Distillery: *Almaden De La Plata, Seville, Spain*
 - Cistus
 - Frankincense
 - Myrrh
 
-#### Kona Sandalwood Reforestation Project: Big Island, Hawaii, USA
+#### Kona Sandalwood Reforestation Project: *Big Island, Hawaii, USA*
 - Royal Hawaiian Sandalwood
 
-#### Finca Botanica Farm and Distillery: Chongon (Guayaquil), Ecuador
+#### Finca Botanica Farm and Distillery: *Chongon (Guayaquil), Ecuador*
 - Ylang Ylang
 - Palo Santo
 - Mastrante
@@ -109,7 +109,7 @@ Because Young Living takes such great care in bringing you the highest quality p
 - Ruta Graveolens
 - Chocolate
 
-#### Dalmatia Aromatic Farm and Distillery: Split, Croatia
+#### Dalmatia Aromatic Farm and Distillery: *Split, Croatia*
 - Helichrysum
 - Sage
 - Juniper
@@ -206,6 +206,6 @@ If you aren’t already part of this amazing family, I would love to help you ge
 
 ![Recap](../assets/images/why-young-living/recap.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTQ0MjA3MywtMTgxNTU0NjA5LC01Nz
-AzNDUyNDhdfQ==
+eyJoaXN0b3J5IjpbODA1NzEzMTYxLC04NzU0NDIwNzMsLTE4MT
+U1NDYwOSwtNTcwMzQ1MjQ4XX0=
 -->
