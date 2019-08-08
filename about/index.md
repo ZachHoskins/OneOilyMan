@@ -1,3 +1,5 @@
+
+
 ---
 layout: page
 current: about
@@ -8,7 +10,7 @@ logo: 'assets/images/logo.png'
 class: page-template
 subclass: 'post page'
 ---
-*My goal of this blog is to help show that essential oils are not just for women, and that any man, woman, child, baby, or pet could benefit from all of the great products Young Living has to offer.*
+*Hi, my name is Zach Hoskins, and my beautiful wife here in this picture is Sammy! My goal of this blog is to help show that essential oils are not just for women, and that any man, woman, child, baby, or pet could benefit from all of the great products Young Living has to offer.*
 
 When I was first introduced to Young Living Essential Oils, I too was very skeptical. I thought these oils were just some sort of placebo that just so happened to smell great. At that point, I was unaware of the science behind essential oils, and the thousands of references in the  [US National Library of Medicine](https://www.ncbi.nlm.nih.gov/pubmed/)  regarding the benefits of these oils. So all I had to go off of at this point was my wife’s experience and mine. I did not expect to be as impressed in these oils as I was, but here I am with my own account now because of how impactful these have been in my life.
 
@@ -26,7 +28,7 @@ One big takeaway for me from the 2019 Convention was that if I truly do believe 
 
 I am very excited for you to join me on this journey! I hope that this blog educates you about Young Living, and encourages you to try for yourself to see how these products can benefit your life!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzkxNDg5LDEyNDA2MDg5NzksMTM2Nj
-M5MTU1OSwtMTI4ODI0MjczMSwxMzI3MzU4MjIwLC02OTE4MDE0
-LDI5Nzc4ODYwOCwtNzY2Njc1MDEwXX0=
+eyJoaXN0b3J5IjpbMTY5NzMxNDQ2MCw2NDA3OTE0ODksMTI0MD
+YwODk3OSwxMzY2MzkxNTU5LC0xMjg4MjQyNzMxLDEzMjczNTgy
+MjAsLTY5MTgwMTQsMjk3Nzg4NjA4LC03NjY2NzUwMTBdfQ==
 -->
