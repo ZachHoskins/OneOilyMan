@@ -8,7 +8,7 @@ logo: 'assets/images/logo.png'
 class: page-template
 subclass: 'post page'
 ---
-My goal of this blog is to help show that essential oils are not just for women, and any man, woman, child, baby, or pet could benefit from all of the great products that Young Living offers.
+*My goal of this blog is to help show that essential oils are not just for women, and any man, woman, child, baby, or pet could benefit from all of the great products that Young Living offers.*
 
 When I was first introduced to Young Living Essential Oils, I too was very skeptical. I thought these oils were just some sort of placebo, that just so happened to smell great. At that point, I was unaware of the science behind essential oils, and the thousands of references in the [US National Library of Medicine](https://www.ncbi.nlm.nih.gov/pubmed/) regarding the benefits of these oils. So all I had to go off of at this point was my wife's experience and mine. I did not expect to be as impressed in these oils as I was, but here I am with my own account now because of how impactful these have been in my life.
 
@@ -33,6 +33,6 @@ One big takeaway for me from the 2019 Convention was that if I truly do believe 
 
 I am very excited for you to join me on this journey! I hope that this blog educates you about Young Living, and encourages you to try for yourself to see how these products can benefit your life!lp with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTgwMTQsMjk3Nzg4NjA4LC03NjY2Nz
-UwMTBdfQ==
+eyJoaXN0b3J5IjpbMTMyNzM1ODIyMCwtNjkxODAxNCwyOTc3OD
+g2MDgsLTc2NjY3NTAxMF19
 -->
