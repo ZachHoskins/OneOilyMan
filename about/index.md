@@ -2,7 +2,7 @@
 ---
 layout: page
 current: about
-cover: ../assets/images/why-young-living/hoskins-and-mountains.jpg
+cover: '../assets/images/hoskins-and-mountains.jpg'
 title: About Me
 navigation: true
 logo: 'assets/images/logoghost.png'
@@ -34,5 +34,5 @@ One big takeaway for me from the 2019 Convention was that if I truly do believe 
 
 I am very excited for you to join me on this journey! I hope that this blog educates you about Young Living, and encourages you to try for yourself to see how these products can benefit your life!lp with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODAyODg0LC03NjY2NzUwMTBdfQ==
+eyJoaXN0b3J5IjpbMjk3Nzg4NjA4LC03NjY2NzUwMTBdfQ==
 -->
