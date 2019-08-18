@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/ProductsHD.png
+cover: assets/images/Products.jpg
 navigation: True
 title: Essential Rewards
 tags: young-living
