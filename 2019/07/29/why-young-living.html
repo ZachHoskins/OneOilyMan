@@ -36,7 +36,7 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="A blog about healthier living, and my experience using Young Living Essential Oils" />
     <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="/why-young-living" />
+    <link rel="canonical" href="/2019/07/29/why-young-living" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
@@ -44,7 +44,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Why Young Living?" />
     <meta property="og:description" content="Everyone is using essential oils these days. But which oils are the best? I seek to answer your questions about who you can trust, what oils are most effective, who gives you the best bang for your buck, and more! Continue reading to explore all that is Young Living and" />
-    <meta property="og:url" content="/why-young-living" />
+    <meta property="og:url" content="/2019/07/29/why-young-living" />
     <meta property="og:image" content="/../assets/images/why-young-living/why-yl-cover.jpeg" />
     <meta property="article:publisher" content="https://www.facebook.com/ZachHoskins27" />
     <meta property="article:author" content="https://www.facebook.com/ZachHoskins27" />
@@ -74,7 +74,7 @@
         "name": "OneOilyMan",
         "logo": "/assets/images/blog-icon.png"
     },
-    "url": "/why-young-living",
+    "url": "/2019/07/29/why-young-living",
     "image": {
         "@type": "ImageObject",
         "url": "/../assets/images/why-young-living/why-yl-cover.jpeg",
@@ -83,7 +83,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/why-young-living"
+        "@id": "/2019/07/29/why-young-living"
     },
     "description": "Everyone is using essential oils these days. But which oils are the best? I seek to answer your questions about who you can trust, what oils are most effective, who gives you the best bang for your buck, and more! Continue reading to explore all that is Young Living and"
 }
@@ -116,37 +116,90 @@ into the {body} of the default.hbs template -->
         <nav class="site-nav">
     <div class="site-nav-left">
         
-            
-                <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon.png" alt="OneOilyMan" /></a>
-            
+        
+        <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon.png"
+                alt="OneOilyMan" /></a>
+        <!-- 
         
         
-            <ul class="nav" role="menu">
+        <!-- <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
+    <li class="nav-health" role="menuitem"><a href="">Health</a></li>
     <li class="nav-join-yl" role="menuitem"><a href="/join-yl/">Join Young Living</a></li>
-    <!-- <li class="nav-getting-started" role="menuitem"><a href="/tag/getting-started/">Getting Started</a></li> -->
-</ul>
+    <li class="nav-getting-started" role="menuitem"><a href="/tag/getting-started/">Getting Started</a></li>
+</ul> -->
 
+<!-- http://planetjekyll.github.io/snippets/nav-with-data -->
+<!-- https://www.chrisanthropic.com/blog/2014/using-_data-to-build-jekyll-navigation/ -->
+
+<nav>
+    <ul class="nav">
+        
+            
+            <li>
+                <a href="/">Home</a>
+            </li>
+            
+        
+            
+            <li>
+                <a href="/about/">About</a>
+            </li>
+            
+        
+            
+            <li>
+                <a href="/join-yl/">Join Young Living</a>
+            </li>
+            
+        
+    </ul>
+</nav>
+
+
+<!-- <nav class="animenu">	
+    <input type="checkbox" id="button">
+    <label for="button" onclick>Menu</label> 
+    <ul>
+      
+         
+      <li>
+        <a href="">Home</a></li>
+        
+      
+         
+      <li>
+        <a href="">About</a></li>
+        
+      
+         
+      <li>
+        <a href="">Join Young Living</a></li>
+        
+      
+    </ul>
+  </nav>  -->
         
     </div>
     <div class="site-nav-right">
         <div class="social-links">
             
-                <a class="social-link social-link-fb" href="https://facebook.com/ZachHoskins27" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+            <a class="social-link social-link-fb" href="https://facebook.com/ZachHoskins27" target="_blank"
+                rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 </a>
             
             
-                <a class="social-link social-link-tw" href="https://twitter.com/ZachHoskins27" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+            <a class="social-link social-link-tw" href="https://twitter.com/ZachHoskins27" target="_blank"
+                rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 </a>
             
         </div>
         
-            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        <a class="subscribe-button" href="#subscribe">Subscribe</a>
         
     </div>
 </nav>
-
     </div>
 </header>
 
@@ -160,14 +213,15 @@ into the {body} of the default.hbs template -->
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="29 July 2019">29 July 2019</time>
+                    <time class="post-full-meta-date"
+                        datetime="29 July 2019">29 July 2019</time>
                     
-                        <span class="date-divider">/</span>
-                        
-                            
-                               <a href='/tag/getting-started/'>GETTING-STARTED</a>
-                            
-                        
+                    <span class="date-divider">/</span>
+                    
+                    
+                    <a href='/tag/getting-started/'>GETTING-STARTED</a>
+                    
+                    
                     
                 </section>
                 <h1 class="post-full-title">Why Young Living?</h1>
@@ -187,7 +241,7 @@ into the {body} of the default.hbs template -->
 <p>From the founder and the foundation, to oils and supplements, through quality products and community support, you will learn how all these combined create a company committed to providing you with nature’s best. Young Living empowers you to be well, discover your true potential, and live a purposeful life.</p>
 
 <h2 id="man-on-a-mission">Man on a Mission</h2>
-<p><img src="../assets/images/why-young-living/man-on-a-mission.jpeg" alt="Man on a Mission" /></p>
+<p><img src="/assets/images/why-young-living/man-on-a-mission.jpeg" alt="Man on a Mission" /></p>
 
 <blockquote>
   <p>Necessity is the mother of invention</p>
@@ -203,7 +257,7 @@ After three suicide attempts, hitting rock bottom, feeling “disconnected from 
 <p>Through all of the success (and failure), there is one thing that Gary and Mary never lost sight of… <strong>the people.</strong></p>
 
 <h2 id="people-over-profit">People Over Profit</h2>
-<p><img src="../assets/images/why-young-living/people-over-profit.jpeg" alt="People Over Profit" />
+<p><img src="/assets/images/why-young-living/people-over-profit.jpeg" alt="People Over Profit" />
 Gary’s heart for people shows through in the development of the D. Gary Young, Young Living Foundation, which is committed to empowering individuals to achieve their potential and to defy limitations by providing wellness and education opportunities to underserved communities. Every penny donated goes directly to those in need because 100% of the administrative costs are covered by Young Living. Donating can be as simple as rounding up your order to the nearest dollar. Over 250,000 individuals have been impacted by the work of the Foundation.</p>
 
 <h3 id="projects-and-partners">Projects and Partners</h3>
@@ -229,7 +283,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 <p><em>You can donate to the Foundation as a general donation or you can donate to a specific project that sits heavy on your heart.</em></p>
 
 <h2 id="our-promise-to-you">Our Promise to You</h2>
-<p><img src="../assets/images/why-young-living/seed-to-seal.jpeg" alt="Our Promise to You" /></p>
+<p><img src="/assets/images/why-young-living/seed-to-seal.jpeg" alt="Our Promise to You" /></p>
 
 <p><strong>Seed to Seal</strong> is a quality commitment and promise Young Living makes to YOU. Seed to Seal consists of three pillars - <strong>Sourcing</strong>, <strong>Science</strong>, and <strong>Standards</strong>. These three are the foundation on which every product is built and everything that Young Living does. This promise ensures you can trust that Young Living is providing you with products of the highest quality and purity, free from synthetics.</p>
 
@@ -250,7 +304,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 <p><em>To learn even more about the entire Seed to Seal promise, go <a href="https://www.seedtoseal.com/">HERE</a>.</em></p>
 
 <h2 id="global-farms">Global Farms</h2>
-<p><img src="../assets/images/why-young-living/global-farms.jpeg" alt="Global Farms" /></p>
+<p><img src="/assets/images/why-young-living/global-farms.jpeg" alt="Global Farms" /></p>
 
 <p>Because Young Living takes such great care in bringing you the highest quality products straight from nature, it has established farms around the globe for cultivating and distilling essential oils.</p>
 
@@ -318,7 +372,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 <p><em>To see a complete list of all the farms including others in Mexico, Bulgaria, Australia, and the Philippines, go <a href="https://www.youngliving.com/en_US/company/about/younglivingfarms">HERE</a>.</em></p>
 
 <h2 id="products-for-the-whole-family">Products for the Whole Family</h2>
-<p><img src="../assets/images/why-young-living/products-for-the-whole-family.jpeg" alt="Products for the Whole Family" /></p>
+<p><img src="/assets/images/why-young-living/products-for-the-whole-family.jpeg" alt="Products for the Whole Family" /></p>
 
 <p>Young Living is so much more than just essential oils. With the commitment to helping people experience real wellness, the company offers product lines for every member of your family.</p>
 
@@ -343,12 +397,12 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 <p>You didn’t think we would forget about them, did you? You love your fur babies and so does Young Living. The Animal Scents Collection is specifically designed for a wide variety of animals. This collection includes exclusive oil blends to support your pet’s health and overall well-being.</p>
 
 <h2 id="personal-care-products">Personal Care Products</h2>
-<p><img src="../assets/images/why-young-living/products-for-personal-care.jpeg" alt="Personal Care Products" /></p>
+<p><img src="/assets/images/why-young-living/products-for-personal-care.jpeg" alt="Personal Care Products" /></p>
 
 <p>Eighty-four thousand chemicals are legal for commerce in the US, all essentially unregulated. Many of these are found in personal care products and cosmetics. Young Living carries a full line of targeted personal care products that will cleanse your skin, support healthy teeth and gums, and leave your hair shiny and clean - all infused with powerful essential oils and no harsh chemicals.</p>
 
 <h2 id="home-products">Home Products</h2>
-<p><img src="../assets/images/why-young-living/products-for-your-home.jpeg" alt="Home Products" /></p>
+<p><img src="/assets/images/why-young-living/products-for-your-home.jpeg" alt="Home Products" /></p>
 
 <p>You are the gatekeeper of your home. You have the power to choose what you allow in. Americans can spend as much as 90% of their time indoors, so the fewer chemicals we allow into our home, the better.</p>
 
@@ -358,7 +412,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 
 <h2 id="nutrition--wellness-products">Nutrition &amp; Wellness Products</h2>
 
-<p><img src="../assets/images/why-young-living/products-for-nutrition-and-wellness.jpeg" alt="Nutrition &amp; Wellness Products" /></p>
+<p><img src="/assets/images/why-young-living/products-for-nutrition-and-wellness.jpeg" alt="Nutrition &amp; Wellness Products" /></p>
 
 <p>True wellness starts from the inside out and Young Living has a full line of products and supplements that provide optimal nutrition to work with your body to keep it above the wellness line.</p>
 
@@ -382,7 +436,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 
 <h2 id="embrace-the-lifestyle">Embrace the Lifestyle</h2>
 
-<p><img src="../assets/images/why-young-living/embrace-the-yl-lifestyle.jpeg" alt="Embrace the Lifestyle" /></p>
+<p><img src="/assets/images/why-young-living/embrace-the-yl-lifestyle.jpeg" alt="Embrace the Lifestyle" /></p>
 
 <p>When you embark on a journey to live a life filled with wellness, purpose, and abundance, it takes more than just one drop of oil to get you there. Embracing Young Living is <em>embracing a lifestyle</em> - making a commitment to better choices for you and your family and helping others do the same thing. When you do this, you will reap the rewards.</p>
 
@@ -400,13 +454,13 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 
 <h2 id="community">Community</h2>
 
-<p><img src="../assets/images/why-young-living/community.jpeg" alt="Community" /></p>
+<p><img src="/assets/images/why-young-living/community.jpeg" alt="Community" /></p>
 
 <p>One aspect about this company that cannot be conveyed through a blog post is the <strong>community</strong>. Young Living is not just a company. It is a family. You have to experience it for yourself to fully understand, but there is definitely something different and special about this community. It started with Gary and lives on through everyone he touched and who they touch.</p>
 
 <p>If you aren’t already part of this amazing family, I would love to help you get started. Let’s connect and work together to figure out your most pressing needs and find the perfect starter kit for you!</p>
 
-<p><img src="../assets/images/why-young-living/recap.jpeg" alt="Recap" />
+<p><img src="/assets/images/why-young-living/recap.jpeg" alt="Recap" />
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODA1NzEzMTYxLC04NzU0NDIwNzMsLTE4MT
 U1NDYwOSwtNTcwMzQ1MjQ4XX0=
@@ -417,10 +471,10 @@ U1NDYwOSwtNTcwMzQ1MjQ4XX0=
 
             <!-- Email subscribe form at the bottom of the page -->
             
-                <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to OneOilyMan</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    <!-- Old Form -->
+            <section class="subscribe-form">
+                <h3 class="subscribe-form-title">Subscribe to OneOilyMan</h3>
+                <p>Get the latest posts delivered right to your inbox</p>
+                <!-- Old Form -->
 <!-- <form method="post" action="/subscribe/" class="">
     <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
 
@@ -452,29 +506,31 @@ U1NDYwOSwtNTcwMzQ1MjQ4XX0=
 </div>
 
 <!--End mc_embed_signup-->
-                </section>
+            </section>
             
 
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
                 
+                
+                <section class="author-card">
                     
-                        <section class="author-card">
-                            
-                                <img class="author-profile-image" src="/assets/images/zach.jpg" alt="zach" />
-                            
-                            <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="/author/zach">Zach Hoskins</a></h4>
-                                
-                                    <p>I am an Independent Distributor and Health Educator for Young Living, and seek to encourage others to live a healthy lifestyle.</p>
-                                
-                            </section>
-                        </section>
-                        <div class="post-full-footer-right">
-                            <a class="author-card-button" href="/author/zach">Read More</a>
-                        </div>
+                    <img class="author-profile-image" src="/assets/images/zach.jpg"
+                        alt="zach" />
                     
+                    <section class="author-card-content">
+                        <h4 class="author-card-name"><a
+                                href="/author/zach">Zach Hoskins</a></h4>
+                        
+                        <p>I am an Independent Distributor and Health Educator for Young Living, and seek to encourage others to live a healthy lifestyle.</p>
+                        
+                    </section>
+                </section>
+                <div class="post-full-footer-right">
+                    <a class="author-card-button" href="/author/zach">Read More</a>
+                </div>
+                
                 
                 <!-- /author  -->
             </footer>
@@ -494,10 +550,10 @@ U1NDYwOSwtNTcwMzQ1MjQ4XX0=
     <div class="inner">
         <div class="read-next-feed">
             
-                
-                
-                
-                
+            
+            
+            
+            
             
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
@@ -527,12 +583,12 @@ U1NDYwOSwtNTcwMzQ1MjQ4XX0=
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Why+Young+Living%3F&amp;url=https://oneoilyman.com/why-young-living"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Why+Young+Living%3F&amp;url=https://oneoilyman.com/2019/07/29/why-young-living"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://oneoilyman.com/why-young-living"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://oneoilyman.com/2019/07/29/why-young-living"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 
@@ -549,7 +605,6 @@ U1NDYwOSwtNTcwMzQ1MjQ4XX0=
 <!-- /post -->
 
 <!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
-
 
         <!-- Previous/next page links - displayed on every page -->
         
