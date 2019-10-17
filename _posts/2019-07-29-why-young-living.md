@@ -19,7 +19,7 @@ From the founder and the foundation, to oils and supplements, through quality pr
 
 
 ## Man on a Mission
-![Man on a Mission](../assets/images/why-young-living/man-on-a-mission.jpeg)
+![Man on a Mission](/assets/images/why-young-living/man-on-a-mission.jpeg)
 
 > Necessity is the mother of invention
 
@@ -33,7 +33,7 @@ Gary purchased farmland, planted crops, and built his own distillery. In 1994, a
 Through all of the success (and failure), there is one thing that Gary and Mary never lost sight of... **the people.**
 
 ## People Over Profit
-![People Over Profit](../assets/images/why-young-living/people-over-profit.jpeg)
+![People Over Profit](/assets/images/why-young-living/people-over-profit.jpeg)
 Gary’s heart for people shows through in the development of the D. Gary Young, Young Living Foundation, which is committed to empowering individuals to achieve their potential and to defy limitations by providing wellness and education opportunities to underserved communities. Every penny donated goes directly to those in need because 100% of the administrative costs are covered by Young Living. Donating can be as simple as rounding up your order to the nearest dollar. Over 250,000 individuals have been impacted by the work of the Foundation.
 
 ### Projects and Partners
@@ -51,7 +51,7 @@ Gary’s heart for people shows through in the development of the D. Gary Young,
 *You can donate to the Foundation as a general donation or you can donate to a specific project that sits heavy on your heart.*
 
 ## Our Promise to You
-![Our Promise to You](../assets/images/why-young-living/seed-to-seal.jpeg)
+![Our Promise to You](/assets/images/why-young-living/seed-to-seal.jpeg)
 
 **Seed to Seal** is a quality commitment and promise Young Living makes to YOU. Seed to Seal consists of three pillars - **Sourcing**, **Science**, and **Standards**. These three are the foundation on which every product is built and everything that Young Living does. This promise ensures you can trust that Young Living is providing you with products of the highest quality and purity, free from synthetics.
 
@@ -66,7 +66,7 @@ Quality and purity are important because that is what ensures these products WOR
 *To learn even more about the entire Seed to Seal promise, go [HERE](https://www.seedtoseal.com/).*
 
 ## Global Farms
-![Global Farms](../assets/images/why-young-living/global-farms.jpeg)
+![Global Farms](/assets/images/why-young-living/global-farms.jpeg)
 
 Because Young Living takes such great care in bringing you the highest quality products straight from nature, it has established farms around the globe for cultivating and distilling essential oils.
 
@@ -118,7 +118,7 @@ Because Young Living takes such great care in bringing you the highest quality p
 *To see a complete list of all the farms including others in Mexico, Bulgaria, Australia, and the Philippines, go [HERE](https://www.youngliving.com/en_US/company/about/younglivingfarms).*
 
 ## Products for the Whole Family
-![Products for the Whole Family](../assets/images/why-young-living/products-for-the-whole-family.jpeg)
+![Products for the Whole Family](/assets/images/why-young-living/products-for-the-whole-family.jpeg)
 
 Young Living is so much more than just essential oils. With the commitment to helping people experience real wellness, the company offers product lines for every member of your family.
 
@@ -143,12 +143,12 @@ The Kidscents line of oils, supplements, and personal care products is specifica
 You didn’t think we would forget about them, did you? You love your fur babies and so does Young Living. The Animal Scents Collection is specifically designed for a wide variety of animals. This collection includes exclusive oil blends to support your pet’s health and overall well-being.
 
 ## Personal Care Products
-![Personal Care Products](../assets/images/why-young-living/products-for-personal-care.jpeg)
+![Personal Care Products](/assets/images/why-young-living/products-for-personal-care.jpeg)
 
 Eighty-four thousand chemicals are legal for commerce in the US, all essentially unregulated. Many of these are found in personal care products and cosmetics. Young Living carries a full line of targeted personal care products that will cleanse your skin, support healthy teeth and gums, and leave your hair shiny and clean - all infused with powerful essential oils and no harsh chemicals.
 
 ## Home Products
-![Home Products](../assets/images/why-young-living/products-for-your-home.jpeg)
+![Home Products](/assets/images/why-young-living/products-for-your-home.jpeg)
 
 You are the gatekeeper of your home. You have the power to choose what you allow in. Americans can spend as much as 90% of their time indoors, so the fewer chemicals we allow into our home, the better.
 
@@ -158,7 +158,7 @@ This particular line of Young Living products is infused with the Thieves essent
 
 ## Nutrition & Wellness Products
 
-![Nutrition & Wellness Products](../assets/images/why-young-living/products-for-nutrition-and-wellness.jpeg)
+![Nutrition & Wellness Products](/assets/images/why-young-living/products-for-nutrition-and-wellness.jpeg)
 
 True wellness starts from the inside out and Young Living has a full line of products and supplements that provide optimal nutrition to work with your body to keep it above the wellness line.
 
@@ -182,7 +182,7 @@ Testing the absorption of Multigreens showed that 42% was absorbed in 24 hours. 
 
 ## Embrace the Lifestyle
 
-![Embrace the Lifestyle](../assets/images/why-young-living/embrace-the-yl-lifestyle.jpeg)
+![Embrace the Lifestyle](/assets/images/why-young-living/embrace-the-yl-lifestyle.jpeg)
 
 When you embark on a journey to live a life filled with wellness, purpose, and abundance, it takes more than just one drop of oil to get you there. Embracing Young Living is *embracing a lifestyle* - making a commitment to better choices for you and your family and helping others do the same thing. When you do this, you will reap the rewards.
 
@@ -198,13 +198,13 @@ To learn more about the income opportunity, take a look at the [Income Disclosur
 
 ## Community
 
-![Community](../assets/images/why-young-living/community.jpeg)
+![Community](/assets/images/why-young-living/community.jpeg)
 
 One aspect about this company that cannot be conveyed through a blog post is the **community**. Young Living is not just a company. It is a family. You have to experience it for yourself to fully understand, but there is definitely something different and special about this community. It started with Gary and lives on through everyone he touched and who they touch.
 
 If you aren’t already part of this amazing family, I would love to help you get started. Let’s connect and work together to figure out your most pressing needs and find the perfect starter kit for you!
 
-![Recap](../assets/images/why-young-living/recap.jpeg)
+![Recap](/assets/images/why-young-living/recap.jpeg)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODA1NzEzMTYxLC04NzU0NDIwNzMsLTE4MT
 U1NDYwOSwtNTcwMzQ1MjQ4XX0=

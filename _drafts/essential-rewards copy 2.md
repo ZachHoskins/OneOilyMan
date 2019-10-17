@@ -3,10 +3,10 @@ layout: post
 current: post
 cover: assets/images/Products.jpg
 navigation: True
-title: Essential Rewards
-tags: financial-health
+title: Essential Rewards Test 3
+tags: physical-health
 class: post-template
-subclass: 'post tag-financial-health'
+subclass: 'post tag-physical-health'
 logo: assets/images/logo.png
 author: zach
 ---

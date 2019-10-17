@@ -1,6 +1,59 @@
-<ul class="nav" role="menu">
+<!-- <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about/">About</a></li>
+    <li class="nav-health" role="menuitem"><a href="">Health</a></li>
     <li class="nav-join-yl" role="menuitem"><a href="{{site.baseurl}}join-yl/">Join Young Living</a></li>
-    <!-- <li class="nav-getting-started" role="menuitem"><a href="{{site.baseurl}}tag/getting-started/">Getting Started</a></li> -->
-</ul>
+    <li class="nav-getting-started" role="menuitem"><a href="{{site.baseurl}}tag/getting-started/">Getting Started</a></li>
+</ul> -->
+
+<!-- http://planetjekyll.github.io/snippets/nav-with-data -->
+<!-- https://www.chrisanthropic.com/blog/2014/using-_data-to-build-jekyll-navigation/ -->
+
+<nav>
+    <ul class="nav">
+        {% for nav in site.data.nav %}
+            {% if nav.subcategories != null %}
+            <li>
+                <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+                <ul>
+                    {% for subcategory in nav.subcategories %}
+                    <li><a href="{{ site.url }}{{ subcategory.url }}">{{ subcategory.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% elsif nav.title == page.title %}
+            <li class="active">
+                <a href="{{ nav.url }}">{{ nav.title }}</a>
+            </li>
+            {% else %}
+            <li>
+                <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a>
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
+
+
+<!-- <nav class="animenu">	
+    <input type="checkbox" id="button">
+    <label for="button" onclick>Menu</label> 
+    <ul>
+      {% for nav in site.data.nav %}
+        {% if nav.subcategories != null %}
+      <li>
+        <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} &#x25BC;</a>
+        <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+        </ul>
+      {% elsif nav.title == page.title %}
+        <li class="active"><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+      {% else %} 
+      <li>
+        <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>  -->
