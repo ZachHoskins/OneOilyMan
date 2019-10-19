@@ -2,7 +2,23 @@
   url: "/"
 - title: "About"
   url: "/about/"
-# - title: "Health"
+- title: "Join Young Living"
+  url: "/join-yl/"
+# - title: "Emotional Health"
+#   url: "/tag/emotional-health"
+# - title: "Financial Health"
+#   url: "/tag/financial-health"
+# - title: "Mental Health"
+#   url: "/tag/mental-health"
+# - title: "Physical Health"
+#   url: "/tag/physical-health"
+# - title: "Spiritual Health"
+#   url: "/tag/spiritual-health"
+
+
+
+
+  # - title: "Health"
 #   subcategories:
 #     - title: "emotional-health"
 #       url: "#"
@@ -14,5 +30,3 @@
 #       url: "#"
 #     - title: "spiritual-health"
 #       url: "#"
-- title: "Join Young Living"
-  url: "/join-yl/"

@@ -1,47 +1,48 @@
 <nav class="site-nav">
     <div class="site-nav-left">
         {% if page.current != 'home' %}
-        {% if site.logo %}
-        <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}"
-                alt="{{ site.title }}" /></a>
-        <!-- {% elsif link.sublinks %}
-        <li class="dropdown {{ class }}">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown"
-                role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span
-                    class="caret"></span></a>
-            <ul class="dropdown-menu">
-                {% for sublink in link.sublinks %}
-                {% if sublink.title == 'separator' %}
-                <li role="separator" class="divider"></li>
-                {% else %}
-                <li>
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </li> -->
-        {% else %}
-        <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-        {% endif %}
+            {% if site.logo %}
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.baseurl}}{{ site.logo }}"
+                    alt="{{ site.title }}" /></a>
+            <!-- {% elsif link.sublinks %}
+                <li class="dropdown {{ class }}">
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown"
+                    role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span
+                        class="caret"></span>
+                    </a>
+                <ul class="dropdown-menu">
+                    {% for sublink in link.sublinks %}
+                        {% if sublink.title == 'separator' %}
+                            <li role="separator" class="divider"></li>
+                        {% else %}
+                            <li>
+                                <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+                </li> -->
+            {% else %}
+                <a class="site-nav-logo" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            {% endif %}
         {% endif %}
         {% if page.navigation %}
-        {% include navigation.html %}
+            {% include navigation.html %}
         {% endif %}
     </div>
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.facebook %}
-            <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank"
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank"
                 rel="noopener">{% include facebook.html %}</a>
             {% endif %}
             {% if site.twitter %}
-            <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank"
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank"
                 rel="noopener">{% include twitter.html %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}
-        <a class="subscribe-button" href="#subscribe">Subscribe</a>
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
         {% endif %}
     </div>
 </nav>

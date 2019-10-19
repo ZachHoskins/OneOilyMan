@@ -4,7 +4,7 @@ current: post
 cover: assets/images/Products.jpg
 navigation: True
 title: Essential Rewards
-tags: financial-health
+tags: physical-health financial-health mental-health getting-started
 class: post-template
 subclass: 'post tag-financial-health'
 logo: assets/images/logo.png

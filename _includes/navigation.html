@@ -9,7 +9,7 @@
 <!-- http://planetjekyll.github.io/snippets/nav-with-data -->
 <!-- https://www.chrisanthropic.com/blog/2014/using-_data-to-build-jekyll-navigation/ -->
 
-<nav>
+<!-- <nav>
     <ul class="nav">
         {% for nav in site.data.nav %}
             {% if nav.subcategories != null %}
@@ -32,28 +32,38 @@
             {% endif %}
         {% endfor %}
     </ul>
-</nav>
+</nav> -->
 
 
-<!-- <nav class="animenu">	
-    <input type="checkbox" id="button">
-    <label for="button" onclick>Menu</label> 
-    <ul>
-      {% for nav in site.data.nav %}
-        {% if nav.subcategories != null %}
-      <li>
-        <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} &#x25BC;</a>
-        <ul>
-          {% for subcategory in nav.subcategories %}
-            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-          {% endfor %}
-        </ul>
+<nav class="animenu">	
+  <!-- <input type="button" id="button">
+  <label for="button" onclick>Menu</label>  -->
+  <ul class="nav">
+    {% for nav in site.data.nav %}
+    
+      <!-- For Sub Category Drop Down Menu START-->
+      {% if nav.subcategories != null %}
+        <li class="dropDownNavMenu">
+          <!-- <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a> -->
+          <button class="dropDownNavMenu_Button">{{ nav.title }}</button>
+          <!-- <li class="dropDownNavMenuBtn">{{ nav.title }}  &#x25BC</li> -->
+          <ul class="dropDownNavMenu_Content">
+            {% for subcategory in nav.subcategories %}
+              <li><a href="{{ site.url }}{{ subcategory.url }}">{{ subcategory.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      <!-- For Sub Category Drop Down Menu END-->
+
       {% elsif nav.title == page.title %}
-        <li class="active"><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+        <li class="active">
+          <a href="{{ nav.url }}">{{ nav.title }}</a>
+        </li>
       {% else %} 
       <li>
-        <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </nav>  -->
+        <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav> 

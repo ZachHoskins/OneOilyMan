@@ -4,9 +4,9 @@ current: post
 cover: assets/images/Products.jpg
 navigation: True
 title: Essential Rewards TEST 2
-tags: emotional-health
+tags: physical-health
 class: post-template
-subclass: 'post tag-emotional-health'
+subclass: 'post tag-physical-health'
 logo: assets/images/logo.png
 author: zach
 ---

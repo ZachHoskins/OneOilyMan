@@ -18,7 +18,7 @@ young-living:
   name: young-living
   description: False
   cover: False
-emotional-health:
+Emotional Health:
   name: emotional-health
   description: False
   cover: False
@@ -26,15 +26,15 @@ Financial Health:
   name: financial-health
   description: False
   cover: False
-mental-health:
+Mental Health:
   name: mental-health
   description: False
   cover: False
-physical-health:
+Physical Health:
   name: physical-health
   description: False
   cover: False
-spiritual-health:
+Spiritual Health:
   name: spiritual-health
   description: False
   cover: False
