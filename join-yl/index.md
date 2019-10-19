@@ -11,7 +11,7 @@ subclass: 'post page'
 
 Who wouldn't want to become part of a company that supports whole body **wellness**, has a fantastic **community**, and may even provide **financial freedom** for your family?
 
- - Check out the [Young Living Signup Page](https://www.bit.ly/zhoskinsyl) 
+ - Check out the [Young Living Signup Page](https://www.youngliving.com/vo/#/signup/new-start?sponsorid=16298497&enrollerid=16298497&isocountrycode=US&culture=en-US&type=member)
 	 - Becoming a member does NOT require you to sell anything, you just get 24% off prices!
  - Select the diffuser you would like to be included with your kit
 	 - **Note:** the price of the kit varies based on the diffuser you choose (the Desert Mist is the most popular)
