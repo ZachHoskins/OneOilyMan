@@ -2,6 +2,7 @@
 layout: post
 current: post
 cover: assets/images/Products.jpg
+comments: True
 navigation: True
 title: Is Essential Rewards Really Essential?
 tags: physical-health financial-health mental-health getting-started

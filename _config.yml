@@ -28,8 +28,8 @@ twitter: ZachHoskins27 # replace by your username
 facebook: ZachHoskins27 # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: #jekyller # replace with your disqus username
+disqus: True
+disqus_shortname: oneoilyman # replace with your disqus username
 
 # Google Analytics
 google_analytics: #UA-69281367-1 # replace with your GA tracking identifier
@@ -71,12 +71,12 @@ plugins: [jekyll-paginate, jekyll-feed]
 safe: False
 lsi: False
 username: ZachHoskins
-repo: oil-blog
+repo: OneOilyMan
 branch: master
-relative_source: ../oil-blog/
+relative_source: ../OneOilyMan/
 destination: ../gh-pages/
 production_url:  https://oneoilyman.com/
-source_url:  https://github.com/ZachHoskins/oil-blog/
+source_url:  https://github.com/ZachHoskins/OneOilyMan/
 
 exclude:
   - assets/css

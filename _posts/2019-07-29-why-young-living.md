@@ -2,6 +2,7 @@
 layout: post
 current: post
 cover: ../assets/images/why-young-living/why-yl-cover.jpeg
+comments: True
 navigation: True
 title: Why Young Living?
 date: 2019-07-29 21:00:00
