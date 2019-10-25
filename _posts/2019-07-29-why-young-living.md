@@ -25,6 +25,7 @@ From the founder and the foundation, to oils and supplements, through quality pr
 > Necessity is the mother of invention
 
 When D. Gary Young found himself confined to a wheelchair with a prognosis that he would never walk again after a severe logging accident in 1973, Young Living was born, although this dream would not be fully realized until 21 years later.
+
 After three suicide attempts, hitting rock bottom, feeling “disconnected from God, my family and the world”, and some “tough love” from his father, Gary resolved that “if it’s the last thing I do, I will get out of this bed, and I will walk and ride my horse again!”
 
 Sometimes it is when we find ourselves at our weakest points in life that our greatest strengths are born. This led Gary to explore different avenues of healing, grow his knowledge of herbs, reconnect with his Creator, travel the world to learn about the production, usage and application of essential oils, and bring his attention to the many other people also needing help.
@@ -207,6 +208,6 @@ If you aren’t already part of this amazing family, I would love to help you ge
 
 ![Recap](/assets/images/why-young-living/recap.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NzEzMTYxLC04NzU0NDIwNzMsLTE4MT
-U1NDYwOSwtNTcwMzQ1MjQ4XX0=
+eyJoaXN0b3J5IjpbLTIwMTgzODM2MjcsODA1NzEzMTYxLC04Nz
+U0NDIwNzMsLTE4MTU1NDYwOSwtNTcwMzQ1MjQ4XX0=
 -->
