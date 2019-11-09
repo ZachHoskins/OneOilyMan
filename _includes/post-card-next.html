@@ -41,7 +41,7 @@
                     {% endif %}
                 {% endfor %}
                 <span class="reading-time">
-                    {% assign words = post.content | strip_html | number_of_words %}
+                    {% assign words = page.next.content | strip_html | number_of_words %}
                     {% if words <= words_per_minute %}
                       1 min read
                     {% else %}
