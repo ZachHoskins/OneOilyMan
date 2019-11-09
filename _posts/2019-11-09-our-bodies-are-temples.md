@@ -4,7 +4,7 @@ current: post
 cover: assets/images/spiritual-health/ManOnCliff.jpg
 comments: true
 navigation: true
-title: Our Bodies are Temples
+title: Our Bodies Are Temples
 date: 2019-11-09 12:00:00
 tags: spiritual-health physical-health
 class: post-template
