@@ -5,12 +5,12 @@ cover: assets/images/spiritual-health/ManOnCliff.jpg
 comments: true
 navigation: true
 title: Our Bodies Are Temples
-date: 2019-11-09 12:00:00
+date: 2019-11-09 08:00:00
 tags: spiritual-health physical-health
 class: post-template
 subclass: 'post tag-spiritual-health'
 logo: assets/images/logo.png
-author: zach
+author: Zach
 ---
 
 If our bodies are temples, what does that have to say about what we put in our bodies?
@@ -27,7 +27,7 @@ It is very easy for me to just quickly read over these verses, and not dive deep
 
 ## Picture A Real Temple:
 
-Imagine that you inherit a very grand temple. This temple is made of the finest materials, and is very thoughtfully designed. You've never seen a more breathtaking building before. On top of that, the Holy Spirit lives inside those very walls.
+Imagine that you inherit a very grand temple. This temple is made of the finest materials and is very thoughtfully designed. You've never seen a more breathtaking building before. On top of that, the Holy Spirit lives inside those very walls.
 
 Now imagine that a strong storm came, and destroyed part of one of the temple walls. I don't know about you, but knowing that God himself lives within that temple, it would be my highest priority to restore that temple to the glory that it once had. By restoring that temple to the best it could be, I would be glorifying the Holy Spirit inside of the temple.
 
@@ -35,15 +35,15 @@ This is such a no-brainer when thinking about an actual, physical building, but 
 
 We were meant to live forever with God, and our bodies too. However, when sin entered the world, our bodies slowly started to die. They slowly started to break down over time, just like any physical building would.
 
-We can either slow down the effects of sin on our bodies, or speed them up by our lifestyle choices. These include what we put in our bodies to sustain us, how much exercise we get, and how much we are resting our bodies. 
+We can either slow down the effects of sin on our bodies or speed them up by our lifestyle choices. These include what we put in our bodies to sustain us, how much exercise we get, and how much we are resting our bodies. 
 
-I say all this, but I feel like I am the worst at all of these areas. I don't always eat very well, I don't exercise nearly as often as I would like to, and I tend to not rest as much as I probably should. 
+I say all this, but I feel like I am the worst in all of these areas. I don't always eat very well, I don't exercise nearly as often as I would like to, and I tend to not rest as much as I probably should. 
 
-Being intentional about all of these areas is one very practical way that I can can be intentional about restoring the temple that God has given to me to the best it can be on this side of Heaven. By doing so, I can glorify God in my body.
+Being intentional about all of these areas is one very practical way that I can be intentional about restoring the temple that God has given to me to the best it can be on this side of Heaven. By doing so, I can glorify God in my body.
 
 ## Does God Care About My Health?
 
-Earlier in Paul's letter to the church in Corinth, he makes it clear that God is very serious when it comes to His temple, to the point that he says God will destroy anyone who destroys His temple. Paul then takes it one step further and tells us that believers are that very temple that he is talking about.
+Earlier in Paul's letter to the church in Corinth, he makes it clear that God is very serious when it comes to His temple, to the point that he says God will destroy anyone who destroys His temple. Paul then takes it one step further and tells us that believers are the very temple that he is talking about.
 
 #### 1 Corinthians 3:17:
 > [16] Do you not know that you are God's temple and that God's Spirit
@@ -56,7 +56,7 @@ I also believe that God wants everyone to be healthy. If I am sick in bed all th
 
 So, yes, God does care about your health as making your health a priority might allow you the opportunity to glorify Him more through your life. 
 
-I know that there are circumstances related to our health that can be out of our control, but we can have faith that God will keep His word from Romans 8:28, that "all things work together for good, for those who are called according to his purpose" (ESV). There are just many health related issues that we could avoid by making healthier choices.
+I know that there are circumstances related to our health that can be out of our control, but we can have faith that God will keep His word from Romans 8:28, that "all things work together for good, for those who are called according to his purpose" (ESV). There are just many health-related issues that we could avoid by making healthier choices.
 
 ## How Does Young Living Fit Into All of This?
 
@@ -66,12 +66,12 @@ Some of the dandruff shampoos, hair gel, cologne, lotion, and cleaning supplies 
 
 I don't think God would be pleased with me if I was knowingly putting chemicals in my body that I knew could cause serious health issues later in life just because it is convenient for me to do so. Doing what is comfortable or easy rarely allows us the opportunity to glorify God, and it is often when we die to ourselves that He is glorified.
 
-I'm not saying these things to shame, or guilt-trip anyone. I'm saying these things to myself as well because I know there are some products that I am still using that could be harming my health, and I struggle sometimes with preferring convenience over my long-term health. 
+I'm not saying these things to shame or guilt-trip anyone. I'm saying these things to myself as well because I know there are some products that I am still using that could be harming my health, and I struggle sometimes with preferring convenience over my long-term health. 
 
-Convenience is one attribute that my generation very highly values, and I have found that Young Living is a very convenient way for me to be intentional about many of my health needs. There are many products that we have started ordering online that we used to buy in the store, and we can be confident that all of these products are actually good for our health.
+Convenience is one attribute that my generation highly values, and I have found that Young Living is a very convenient way for me to be intentional about many of my health needs. There are many products that we have started ordering online that we used to buy in the store, and we can be confident that all of these products are good for our health.
 
-I still need to make sure I'm getting the exercise and rest that my body needs, but having a one-stop shop that we can go to for many of the product that we use on a daily basis is helping us make our health a priority.
+I still need to make sure I'm getting the exercise and rest that my body needs, but having a one-stop shop that we can go to for many of the products that we use daily is helping us make our health a priority.
 
-I wasn't always so on-board with Young Living, and was very skeptical at first. Then I went to one of their farms, and got to see the care that they put into every part of the oil making process. From planting, to harvesting, to distilling, and even to the bottling of their oils, they maintained every part in the process. With how much care I saw them have for their oils, I know I can trust them with the rest of their products. 
+I wasn't always so on-board with Young Living and was very skeptical at first. Then I went to one of their farms and got to see the care that they put into every part of the oil-making process. From planting to harvesting, distilling, and even bottling their oils, they maintained every part in the process. With how much care I saw them have for their oils, I know I can trust them with the rest of their products. 
 
 Young Living truly cares about people over profit, and when I am looking for ways to provide health for my family, I want to use products from someone who cares more about my health than their bottom line.

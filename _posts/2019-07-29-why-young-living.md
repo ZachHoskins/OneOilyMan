@@ -10,7 +10,7 @@ tags: getting-started
 class: post-template
 subclass: 'post tag-getting-started'
 logo: assets/images/logo.png
-author: zach
+author: Zach
 ---
 Everyone is using essential oils these days. *But which oils are the best?*
 
