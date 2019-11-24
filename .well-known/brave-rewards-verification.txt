@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: oneoilyman.com
+Token: 524a71a0321715d2ae7007270ec8ba3203b9fa9795d75c42af8326ff9d6b79b1
